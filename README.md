@@ -1,6 +1,6 @@
 # Visual novel game
 ---
-## Simple story about guy who just want well-paid job
+## Simple story about guy who just wants well-paid job
 --- 
 # -Application functionality-
 Works like classic novel: shows pictures (backgrounds, sprites of characters), outputs text
