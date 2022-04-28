@@ -44,5 +44,5 @@ menu:
 ## Thanks for attetion!!
 
 -----
-### i worked really hard at this project so i really hope you'll like it
+### i worked really hard on this project so i really hope you'll like it
 ![image](https://www.meme-arsenal.com/memes/3dfa53fec8cd648be8b8f86dcc6ebf66.jpg)
